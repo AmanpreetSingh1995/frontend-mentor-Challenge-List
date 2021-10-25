@@ -2,7 +2,7 @@
 This repo contains all the different level challenges done through [FrontEnd Mentor](https://www.frontendmentor.io/challenges)
 
 ************************************************************************************************************
-                                                          **NEWBIE**
+                                                            **NEWBIE**
 ************************************************************************************************************
 
 1. [4-card Feature Section Challenge](https://github.com/AmanpreetSingh1995/newbie-4-card-feature-section)
@@ -20,7 +20,7 @@ This repo contains all the different level challenges done through [FrontEnd Men
 13. [Base Apparel Coming Soon Page Challenge](https://github.com/AmanpreetSingh1995/newbie-Base-Apparel-coming-soon-page)
 
 ************************************************************************************************************
-                                                        **JUNIOR**
+                                                          **JUNIOR**
 ************************************************************************************************************
 
 1. [Social Media DashBoard with Dark and Light Toggle](https://github.com/AmanpreetSingh1995/FEM_Social_Dashboard_Dk-Lt_Toggle)
