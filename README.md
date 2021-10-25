@@ -22,3 +22,15 @@ This repo contains all the different level challenges done through [FrontEnd Men
 ************************************************************************************************************
                                                         **JUNIOR**
 ************************************************************************************************************
+
+1. [Social Media DashBoard with Dark and Light Toggle](https://github.com/AmanpreetSingh1995/FEM_Social_Dashboard_Dk-Lt_Toggle)
+2. [Blogr Landing Page Challenge](https://github.com/AmanpreetSingh1995/junior-blogr-landing-page)
+3. [Coding Bootcamp Testimonial Slider Challenge](https://github.com/AmanpreetSingh1995/junior-coding-bootcamp-testimonial-slider)
+4. [Fylo Landing Page with Two column layout Challenge](https://github.com/AmanpreetSingh1995/junior-fylo-landing-page-with-two-column-layout)
+5. [Pricing with Toggle Challenge](https://github.com/AmanpreetSingh1995/junior-pricing-with-toggle)
+6. [Testimonial Grid Section Challenge](https://github.com/AmanpreetSingh1995/junior-testimonials-grid-section)
+7. [Crowdfunding Product Page Challenge](https://github.com/AmanpreetSingh1995/junior-crowdfunding-product-page)
+8. [Fylo Dark Theme Landing Page Challenge](https://github.com/AmanpreetSingh1995/junior-fylo-dark-theme-landing-page)
+9. [Insure Landing Page Challenge](https://github.com/AmanpreetSingh1995/junior-insure-landing-page)
+10. [Project Tracking Intro Component Challenge](https://github.com/AmanpreetSingh1995/junior-project-tracking-intro-component)
+11. [Interactive Pricing Component Challenge](https://github.com/AmanpreetSingh1995/junior-interactive-pricing-component)
