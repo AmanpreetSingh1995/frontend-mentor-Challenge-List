@@ -8,7 +8,7 @@ This repo contains all the different level challenges done through [FrontEnd Men
 1. [4-card Feature Section Challenge](https://github.com/AmanpreetSingh1995/newbie-4-card-feature-section)
 2. [3-Column Preview Card Compnent Challenge](https://github.com/AmanpreetSingh1995/newbie-3-col-preview-card-component)
 3. [FAQ Accordion Card Challenge](https://github.com/AmanpreetSingh1995/newbie-faq-accordion-card)
-4. [Huddle Landding Intro Page Challenge](https://github.com/AmanpreetSingh1995/newbie-huddle-landing-intro-page)
+4. [Huddle Landing Intro Page Challenge](https://github.com/AmanpreetSingh1995/newbie-huddle-landing-intro-page)
 5. [Article Preview Component Challenge](https://github.com/AmanpreetSingh1995/newbie-article-preview-component)
 6. [Profile Card Component Challenge](https://github.com/AmanpreetSingh1995/newbie-profile-card-component)
 7. [Starts Preview Card Challenge](https://github.com/AmanpreetSingh1995/newbie-stats-preview-card)
