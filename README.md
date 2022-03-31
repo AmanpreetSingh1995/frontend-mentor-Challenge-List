@@ -35,8 +35,18 @@ This repo contains all the different level challenges done through [FrontEnd Men
 10. [Project Tracking Intro Component Challenge](https://github.com/AmanpreetSingh1995/junior-project-tracking-intro-component)
 11. [Interactive Pricing Component Challenge](https://github.com/AmanpreetSingh1995/junior-interactive-pricing-component)
 12. [SunnySide Agency Landing Page Challenge](https://github.com/AmanpreetSingh1995/FeM_SunnySide_Agency_Landing_Page)
+13. [Tip Calculator App Challenge](https://github.com/AmanpreetSingh1995/FEM_tip-calculator-app)
 
 ************************************************************************************************************
                                                            **INTERMEDIATE**
 ************************************************************************************************************
+
 1.[EasyBank Landing Page Challenge](https://github.com/AmanpreetSingh1995/FeM-EasyBank-Landing_Page)
+2. [Calculator App Challenge](https://github.com/AmanpreetSingh1995/FEM_calculator-app)
+3. [Todo App Challenge](https://github.com/AmanpreetSingh1995/FEM_todo-app)
+
+************************************************************************************************************
+                                                           **ADVANCE**
+************************************************************************************************************
+
+1. [Rock Paper Scissors with Bonus Challenge](https://github.com/AmanpreetSingh1995/FEM_rock-paper-scissors)
