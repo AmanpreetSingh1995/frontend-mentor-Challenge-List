@@ -44,6 +44,7 @@ This repo contains all the different level challenges done through [FrontEnd Men
 1.[EasyBank Landing Page Challenge](https://github.com/AmanpreetSingh1995/FeM-EasyBank-Landing_Page)
 2. [Calculator App Challenge](https://github.com/AmanpreetSingh1995/FEM_calculator-app)
 3. [Todo App Challenge](https://github.com/AmanpreetSingh1995/FEM_todo-app)
+4. [Static Job Listing Challenge](https://github.com/AmanpreetSingh1995/FEM_static_jobs_listing)
 
 ************************************************************************************************************
                                                            **ADVANCE**
